@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wheel of Fortune</string>
+    <string name="buttonStart">Start</string>
+    <string name="buttonStartGame">Put</string>
+    <string name="score">Your Score</string>
+    <string name="scoreNumber">_</string>
+</resources>

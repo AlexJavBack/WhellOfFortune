@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951627075218",
+    "project_id": "wheel-of-fortune-87714",
+    "storage_bucket": "wheel-of-fortune-87714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951627075218:android:da098fdd6d9dc0137e604b",
+        "android_client_info": {
+          "package_name": "com.example.wheeloffortune"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951627075218-o6druo2b9ibok9b0kb29ilimv58phq4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtcqZmySgoaFV2HU_xcftiDLU_SD-9IU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951627075218-o6druo2b9ibok9b0kb29ilimv58phq4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
