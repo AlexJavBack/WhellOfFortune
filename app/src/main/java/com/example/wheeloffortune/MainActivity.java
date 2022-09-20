@@ -14,7 +14,7 @@ import android.webkit.WebViewClient;
 import com.onesignal.OneSignal;
 
 public class MainActivity extends AppCompatActivity {
-    private static final String ONESIGNAL_APP_ID = "770743eb-8812-4e0c-825d-f6accd240fc6";
+    private static final String ONESIGNAL_APP_ID = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
